@@ -10,13 +10,6 @@
     "minimum-stability": "dev",
     "require": {},    
     "license": "MIT",
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Cipl-sheik\\Timezones\\TimezonesServiceProvider"
-            ]
-        }
-    },
     "require": {
         "php": ">=7.1.3"
     },
